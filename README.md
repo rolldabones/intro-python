@@ -10,3 +10,6 @@ angel@Michaels-MacBook-Pro intro-python %
 u+x is add execute permission for the owning user
 
 hello world!
+
+April 17th:
+don't forget -m when you commit!
