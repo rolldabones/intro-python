@@ -13,3 +13,5 @@ hello world!
 
 April 17th:
 don't forget -m when you commit!
+
+This was the source control session, with git.
