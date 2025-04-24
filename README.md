@@ -22,6 +22,9 @@ This is my homework: another commit, and then GitHub repository to Beege
 
 April 24th:
 
+projects and dependencies
 UV install
 virtual environment
 git add -A
+activate the virtual environment every time:
+source .venv/bin/activate
