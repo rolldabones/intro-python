@@ -23,3 +23,5 @@ This is my homework: another commit, and then GitHub repository to Beege
 April 24th:
 
 UV install
+virtual environment
+git add -A
